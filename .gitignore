@@ -5,3 +5,4 @@
 
 # VirtualEnv
 venv/
+.DS_Store
